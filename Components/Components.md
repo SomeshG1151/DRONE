@@ -56,13 +56,13 @@ It combines open-source tools and modular components to create a stable and cust
     Failsafe systems (loss of signal, low battery, etc.)
 
 
-* **links** : [link text](https://evelta.com/pixhawk-2-4-8-combo-set-main-board-sd-card-buzzer-safety-switch/?utm_campaign=%7BCampaignName%7D&utm_source=google&utm_medium=cpc&utm_matchtype=&utm_term=&adgroupid=&gc_id=21398421111&h_ad_id=&gad_source=1&gad_campaignid=21398421591&gbraid=0AAAAADwtsXn59Jf9OqoooMQm_9XPIUFic&gclid=Cj0KCQjwuvrBBhDcARIsAKRrkje-21VtRSpW9oNdiYTdUfXXVMCxGAT5fRhKYY2oZGIYd3VGRTpAIq8aAkBYEALw_wcB "")
+* **links** : [Pixhawk 2.4.8](https://evelta.com/pixhawk-2-4-8-combo-set-main-board-sd-card-buzzer-safety-switch/?utm_campaign=%7BCampaignName%7D&utm_source=google&utm_medium=cpc&utm_matchtype=&utm_term=&adgroupid=&gc_id=21398421111&h_ad_id=&gad_source=1&gad_campaignid=21398421591&gbraid=0AAAAADwtsXn59Jf9OqoooMQm_9XPIUFic&gclid=Cj0KCQjwuvrBBhDcARIsAKRrkje-21VtRSpW9oNdiYTdUfXXVMCxGAT5fRhKYY2oZGIYd3VGRTpAIq8aAkBYEALw_wcB "")
 
 ### 6. **GPS Module integrated compass module**
 
 * **Model**: Ublox Neo-M8N
 * **Purpose**: Provides positional data for autonomous flight and failsafe return-to-home (RTH) features.
-* **links** : https://www.amazon.in/Robocraze-NEO-Module-Compass-ARDUPILOT/dp/B0DNTJDJHT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX
+* **links** : [GPS Module integrated compass module](https://www.amazon.in/Robocraze-NEO-Module-Compass-ARDUPILOT/dp/B0DNTJDJHT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX)
 
 ### 7. **Power Distribution Board (PDB)**
 
