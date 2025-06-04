@@ -134,5 +134,3 @@ It combines open-source tools and modular components to create a stable and cust
 * Always disarm the drone before touching it.
 
 ---
-
-Let me know if you want me to generate a PDF or DOCX version, or include wiring diagrams or ESC calibration steps.
