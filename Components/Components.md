@@ -1,6 +1,6 @@
 # 🛸 Quadcopter Drone Project!
 
-[alt text](.\images\1000024351.jpg)
+[alt text](./images/1000024351.jpg)
 
 ## Overview
 
