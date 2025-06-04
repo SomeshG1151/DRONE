@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+    <img src="https://img.shields.io/badge/Drone%20Project-Test%20Flights-blue?style=for-the-badge" alt="Drone Project Banner" />
+</p>
+
 # Drone Test Flights
 
 This document summarizes five test flights conducted with our drone. Each test includes a brief description and a link to the corresponding video located in the `photos_and_videos` folder.
