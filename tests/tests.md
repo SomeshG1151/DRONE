@@ -38,5 +38,8 @@ Tested the semi-automatic landing feature, activated with a single click, at the
 [Watch Flight 3](/photos%20and%20videos/VID-20250604-WA0006.mp4)
 
 ---
-
+<!-- Banner -->
+<p align="center">
+    <img src="https://img.shields.io/badge/Drone%20Project-Test%20Flights-blue?style=for-the-badge" alt="Drone Project Banner" />
+</p>
 For more details, refer to the individual test logs and data files.
