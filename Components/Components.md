@@ -1,6 +1,6 @@
 # 🛸 Quadcopter Drone Project!
 
-![Quadcopter Drone](./images/1000024351.jpg)
+![Quadcopter Drone](../photos%20and%20videos/1000024351.jpg)
 
 ## Overview
 
